@@ -109,3 +109,8 @@ Pada program ini ada dua cara untuk memasukkan umur pada text tersebut. bisa den
 
 <img width="480" alt="ss lab 10 string output 2" src="https://user-images.githubusercontent.com/116411792/209980876-15b9e345-eb24-4e47-9d39-1a16b3055e50.png">
 
+Maka akan menghasilkan hasil yang sama. 
+
+
+## TERIMA KASIH :call_me_hand:
+## :+1: :thumbsup:
